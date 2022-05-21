@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-# ./linux_setup.sh <PYTHON_VERSION>
+# linux_setup.sh <PYTHON_VERSION>
 
 # default 3.9.9
 VERSION=${1:-3.9.9}
